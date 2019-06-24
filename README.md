@@ -1,1 +1,1 @@
-# DukeGardensWedding
+#Duke gardens wedding website.
